@@ -20,7 +20,7 @@ Alphabet Soup can then use the probability scores assigned by the neural network
     - How many neurons, layers, and activation functions did you select for your neural network model, and why?
     <img src="images/model_1.png" width="407" height="253">
     <br>
-    - For the initial model, he network design choices align with best practices for a binary classifier on tabular data - the model has the right output setup for the problem. The depth and width of the hidden layers provide enough representational power while minimizing unnecessary complexity that could overfit.<br>
+    - For the initial model, the network design choices align with best practices for a binary classifier on tabular data - the model has the right output setup for the problem. The depth and width of the hidden layers provide enough representational power while minimizing unnecessary complexity that could overfit.<br>
     - Were you able to achieve the target model performance?
     <img src="images/model_results_1.png" width="614" height="100">
     <br>
